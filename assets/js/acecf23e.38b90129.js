@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_mentorship=self.webpackChunktech_mentorship||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/ccc.guide.io/blog","blogTitle":"Blog","authorsListPath":"/ccc.guide.io/blog/authors"}')}}]);
